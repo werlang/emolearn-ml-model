@@ -1,6 +1,10 @@
 # time_v1
 
-Sequential Conv3D model.
+Fusion network:
+* Bidirectional LSTM with skip connections network for training OpenFace features.
+* TimeDistributed Conv2D with skip-connections for training videos.
+
+Fusion done using a BLSTM layer after concatenarion layer.
 
 ## Notebook
 

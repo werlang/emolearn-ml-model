@@ -1,6 +1,6 @@
 # conv3d_v4
 
-Sequential Conv3D model.
+Conv3D network created using skip connections. Inspired on how ResNet works.
 
 ## Notebook
 

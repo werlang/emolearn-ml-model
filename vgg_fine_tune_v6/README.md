@@ -1,6 +1,6 @@
 # vgg_fine_tune_v6
 
-Sequential Conv3D model.
+VGG16 network pre-trained on VGG-Face database. GRU layers are used frames from videos.
 
 ## Notebook
 
