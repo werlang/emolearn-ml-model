@@ -1,10 +1,8 @@
 # daisee_eng_merge
 
 Fusion network:
-* Fine-tuned InceptionResNetV3. TimeDistributed layer for training on videos.
+* Fine-tuned InceptionResNetV3. TimeDistributed layer for training on videos, also using ConvLSTM2D layers at the end of the network.
 * TCN network for training OpenFace features.
-
-Before concatenating both networks, using ConvLSTM2D layers at the end of the video network.
 
 ## Notebook
 

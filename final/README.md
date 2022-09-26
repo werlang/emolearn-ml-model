@@ -1,11 +1,9 @@
 # final
 
-<!-- Fusion network:
-* Fine-tuned InceptionResNetV3. TimeDistributed layer for training on videos.
+Fusion network:
+* Fine-tuned InceptionResNetV3. TimeDistributed layer for training on videos. Also using ConvLSTM2D layers at the end of the network
 * TCN network for training OpenFace features.
 * Labels from previous time steps.
-
-Before concatenating both networks, using ConvLSTM2D layers at the end of the video network. -->
 
 ## Notebook
 
@@ -30,7 +28,7 @@ Before concatenating both networks, using ConvLSTM2D layers at the end of the vi
 
 ## Loss and Accuracy during training
 
-<!-- ![image](https://user-images.githubusercontent.com/19828711/192119541-c62dcb8d-b2e1-4576-8b79-c3b735aba8e7.png) -->
+![image](https://user-images.githubusercontent.com/19828711/192367986-43ef4d35-0fb2-4541-8499-783380366ae1.png)
 
 ## Plot model
 
