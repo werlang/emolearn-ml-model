@@ -16,9 +16,9 @@ Fusion done using a BLSTM layer after concatenarion layer.
 
 ## Performance
 
-| Accuracy | F1 |
-| --- | --- |
-| 0.6733 | - |
+| Accuracy |   F1 |
+| -------: | ---: |
+|   0.6733 |    - |
 
 ## Plot model
 

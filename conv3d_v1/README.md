@@ -12,9 +12,9 @@ Sequential Conv3D model.
 
 ## Performance
 
-| Accuracy | F1 |
-| --- | --- |
-| 0.7492 | - |
+| Accuracy |   F1 |
+| -------: | ---: |
+|   0.7492 |    - |
 
 ## Plot model
 

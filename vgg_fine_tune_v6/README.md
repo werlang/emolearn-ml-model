@@ -12,16 +12,16 @@ VGG16 network pre-trained on VGG-Face database. GRU layers are used frames from 
 
 ## Performance
 
-| Accuracy | F1 |
-| --- | --- |
-| 0.6362 | 0.6250 |
+| Accuracy |     F1 |
+| -------: | -----: |
+|   0.6362 | 0.6250 |
 
 ## Confusion Matrix
 
-| | 0 | 1 |
-| --- | --- | --- |
-| **0** | 976 | 644 | 
-| **1** | 888 | 1704 |
+|       |    0 |    1 |
+| ----- | ---: | ---: |
+| **0** |  976 |  644 |
+| **1** |  888 | 1704 |
 
 ## Plot model
 

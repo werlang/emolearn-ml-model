@@ -14,16 +14,16 @@ Fusion network:
 
 ## Performance
 
-| Accuracy | F1 |
-| --- | --- |
-| 0.9417 | 0.5122 |
+| Accuracy |     F1 |
+| -------: | -----: |
+|   0.9417 | 0.5122 |
 
 ## Confusion Matrix
 
-| | 0 | 1 |
-| --- | --- | --- |
-| **0** | 9 | 255 | 
-| **1** | 57 | 5028 |
+|       |    0 |    1 |
+| ----- | ---: | ---: |
+| **0** |    9 |  255 |
+| **1** |   57 | 5028 |
 
 ## Loss and Accuracy during training
 

@@ -12,16 +12,16 @@ Conv3D network created using skip connections. Inspired on how ResNet works.
 
 ## Performance
 
-| Accuracy | F1 |
-| --- | --- |
-| 0.7371 | 0.5025 |
+| Accuracy |     F1 |
+| -------: | -----: |
+|   0.7371 | 0.5025 |
 
 ## Confusion Matrix
 
-| | 0 | 1 |
-| --- | --- | --- |
-| **0** | 45 | 43 | 
-| **1** | 426 | 1270 |
+|       |    0 |    1 |
+| ----- | ---: | ---: |
+| **0** |   45 |   43 |
+| **1** |  426 | 1270 |
 
 ## Plot model
 
